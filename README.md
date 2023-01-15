@@ -12,3 +12,6 @@ Where we are guiding conda to create environment with the name of "stenv" that u
 ### $ pip install streamlit
 ## once the Streamlit is installed we can run the above python file to visulize the data:
 ### $ streamlit run app.py
+
+
+![screenshot](https://github.com/Ruchi-Jindal/Real-Time-Live-Data-Dashboard_-Streamlit/blob/main/Image.png "Streamlit with live data")
